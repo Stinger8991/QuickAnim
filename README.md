@@ -4,6 +4,7 @@ A pie menu which helps you switch between local , global , move and rotation roo
 
 Its a tool more for ease of use and speed, than anything revolutionary
 
+You will need to install it as usual for blender add ons.
 You will add the tool to a hotkey. Ive used Shift Q for it but you woulc use any hotkey to access the pie menu.
 
 Add the hotkey to 3D view Generic in your settings/keymap.
